@@ -5,4 +5,5 @@ The objective of the application is to simulate the Link State Routing protocol.
 3)	Shortest Path to Destination Router
 4)	Modify a topology
 5)	Exit
+
 The user can input the option in command prompt. 
