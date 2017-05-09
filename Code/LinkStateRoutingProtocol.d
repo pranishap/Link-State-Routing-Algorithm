@@ -1,0 +1,1 @@
+LinkStateRoutingProtocol.d: ../LinkStateRoutingProtocol.c
